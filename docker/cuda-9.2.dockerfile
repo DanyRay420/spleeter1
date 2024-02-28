@@ -1,4 +1,4 @@
-ARG BASE=python:3.7
+ARG BASE=python:3.13.0a3
 FROM ${BASE}
 
 # FROM 9.2-base-ubuntu18.04
