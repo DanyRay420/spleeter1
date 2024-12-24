@@ -1,4 +1,4 @@
-ARG BASE=python:3.8
+ARG BASE=python:3.14.0a3
 FROM ${BASE}
 
 ENV CUDA_VERSION 10.1.243
