@@ -1,4 +1,4 @@
-ARG BASE=python:3.6
+ARG BASE=python:3.14.0rc2
 
 FROM ${BASE}
 
